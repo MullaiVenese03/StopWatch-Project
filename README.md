@@ -14,7 +14,7 @@ The Stopwatch Project provides a basic stopwatch functionality, allowing users t
 
 ## Demo
 
-[Live](https://mullaivenese03.github.io/Stopwatch/)
+[Live](https://mullaivenese03.github.io/StopWatch-Project/)
 
 ## Getting Started
 
