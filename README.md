@@ -47,25 +47,3 @@ To use the Stopwatch Project, follow these steps:
 ## License
 
 This project is licensed under the 🤍[MullaiVenese](https://github.com/MullaiVenese03/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
